@@ -3,7 +3,7 @@ A movie reccomendation system was created using Python, Pickle and streamlit. Th
 
 <table>
    <tr>
-    <td> <img src="screenshot.jpg"  alt="1" width = 360px></td>
+    <td> <img src="screenshot.jpg"  alt="1" width = 900px></td>
    </tr>
 </table>
 
